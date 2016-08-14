@@ -1,6 +1,6 @@
 # 一个简单的TableViewCell动画
 
-##实现代码
+##核心代码
 ```objective-c
 #pragma mark - 代理方法
 - (void)tableView:(UITableView *)tableView willDisplayCell:(UITableViewCell *)cell forRowAtIndexPath:(NSIndexPath *)indexPath{
