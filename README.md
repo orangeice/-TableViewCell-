@@ -1,5 +1,8 @@
 # 一个简单的TableViewCell动画
 
+##效果展示
+![image](https://github.com/ySssssssss/-TableViewCell-/blob/master/cell.gif)
+
 ##核心代码
 ```objective-c
 #pragma mark - 代理方法
